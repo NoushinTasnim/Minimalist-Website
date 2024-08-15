@@ -5,7 +5,9 @@
 </p>
 <h2>Overview</h2>
 <p>The Minimalist Website is a sleek and modern web application designed to offer users a streamlined and efficient online experience. This project focuses on clean design, intuitive navigation, and responsive layout to ensure optimal usability across all devices.</p>
-
+<p align="center">
+  <img src="https://github.com/NoushinTasnim/Minimalist-Website/blob/main/src/ss/Artboard%201.png" alt="App Screenshot" width="1000" />
+</p>
 <h2>Features</h2>
 <ul>
         <li>Responsive Design: The website is fully responsive, ensuring it looks great on all screen sizes, from mobile devices to large desktop monitors.</li>

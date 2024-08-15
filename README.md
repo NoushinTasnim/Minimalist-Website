@@ -1,5 +1,6 @@
 <h1>Minimalist Website</h1>
-<h3><a href="https://dribbble.com/shots/23852527-3M-3D-Designer-Portfolio-Landing-Page-Website?utm_source=Clipboard_Shot&utm_campaign=Adhiari_is&utm_content=3M%20-%203D%20Designer%20Portfolio%20Landing%20Page%20Website&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Adhiari_is&utm_content=3M%20-%203D%20Designer%20Portfolio%20Landing%20Page%20Website&utm_medium=Social_Share">Design Inspiration</a></h3>
+<h3><a href="https://dribbble.com/shots/23852527-3M-3D-Designer-Portfolio-Landing-Page-Website">Design Inspiration</a></h3>
+
 <p align="center">
   <img src="https://github.com/NoushinTasnim/Minimalist-Website/blob/main/src/ss/OJK92B1.png" alt="App Screenshot" width="1000" />
 </p>

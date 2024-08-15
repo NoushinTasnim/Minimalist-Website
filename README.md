@@ -1,5 +1,5 @@
 <h1>Minimalist Website</h1>
-<a src="https://dribbble.com/shots/23852527-3M-3D-Designer-Portfolio-Landing-Page-Website">Design Inspiration</a>
+<a href="https://dribbble.com/shots/23852527-3M-3D-Designer-Portfolio-Landing-Page-Website">Design Inspiration</a>
 <p align="center">
   <img src="https://github.com/NoushinTasnim/Minimalist-Website/blob/main/src/ss/OJK92B1.png" alt="App Screenshot" width="1000" />
 </p>

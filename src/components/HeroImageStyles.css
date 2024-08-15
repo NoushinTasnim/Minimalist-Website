@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+.mask{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.intro-img{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover;
+}
+
+.hero{
+    height: 100%;
+    width: 100%;
+}
+
+.hero .content{
+    position: absolute;
+    transform: translate(-30%, -25%);
+    top: 50%;
+    right: 0%;
+    text-align: right;
+}
+
+.hero .content p{
+    padding-top: 2rem;
+    max-width: 300px;
+    font-size: 1.2rem;
+    font-weight: 100;
+}
+
+.content .btn{
+    margin: 1rem .2rem;
+    font-size: 1.2rem;
+}
+
+.content .btn-light{
+    margin: 1rem .2rem;
+    font-size: 1.2rem;
+}
+
+.hero .title{
+    position: absolute;
+    transform: translate(5%, -25%);
+    top: 75%;
+    left: 0%;
+    text-align: right;
+}
+
+.hero .title h1{
+    font-family: "Monoton", sans-serif;
+    font-size: 7rem;
+    color: rgba(255, 255, 255, 0.832);
+}
+
+@media screen and (max-width:1040px){
+    .hero .content{
+        top: 40%;
+    }
+    
+    .hero .title{
+        transform: translate(20%, 10%);
+    }
+
+    .hero .title h1{
+        font-size: 3rem;
+    }
+}

@@ -1,0 +1,37 @@
+.about {
+    padding: 2rem auto;
+    background: #f4f4f4;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.about h1 {
+    text-align: left;
+    color: #080808;
+    margin: 0 2rem;
+    padding-top: 2rem;
+}
+
+.para {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: space-between;
+    gap: 8rem;
+    padding: 2rem 2rem 1rem;
+}
+
+.parapara h4 {
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.parapara p {
+    color: #333333;
+}
+
+@media screen and (max-width:740px){
+    .para {
+        grid-template-columns:1fr;
+        gap: 1rem;
+    }
+}
